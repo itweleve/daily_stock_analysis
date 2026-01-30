@@ -87,7 +87,7 @@ jobs:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           
           # 方式三：Telegram
-          TELEGRAM_BOT_TOKEN: 8161580076:AAHqcejHiYt3QAq9k900qR5cpmWEhJhYXHs
+          TELEGRAM_BOT_TOKEN: AAHqcejHiYt3QAq9k900qR5cpmWEhJhYXHs
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           
           # 方式四：邮件
